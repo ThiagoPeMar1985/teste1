@@ -1,0 +1,2 @@
+desafioDaLampada = "eu ligaria o primeiro interruptor e deixaria ele ligado por um tempo ate achar, que a lampada possa ter aquecido apos isso desligaria o interruptor 1 e ligaria o segundo assim quando eu for na sala das lampadas eu saberei que a lampada apagada e quente é do interrupotor 1 a lampada ligada do segundo interruptor e a lampada desligada e fria do 3 interruptor"
+print(desafioDaLampada)
